@@ -1,0 +1,177 @@
+*{
+    margin: 0px;
+    margin-top: 0px;
+}
+header{
+    height: 50px;
+    width: 100%;
+    background-color:#76f0e4;
+}
+.cow{
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-top: 15px;
+    color: #212529;
+}
+.tiger{
+    display: flex;
+}
+img{
+    width: 100px;
+    padding-left: 100px;
+    padding-right: 30px;
+    padding-top: 10px;
+    background-color: #fff;
+}
+nav{
+    height: 80px;
+    width: 95%;
+    background-color:#2d8e84;
+    
+}
+.lion{ 
+  float: left;
+  text-decoration: none;
+  border: none;
+  transition: 0.3s;
+  font-size: 20px;
+  color:  white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.shawez{
+    padding-left: 450px;
+    font-size: 50px;
+    box-shadow: #212529;
+    text-decoration: underline solid black;
+    vertical-align: 100px;
+    padding-top: 100px;
+    color: #2d8e84;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.main{
+    display: flex;
+    padding-top: 20px;
+}
+.shawez1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 400px;
+    font-size: 2px;
+    gap: 5rem;
+}
+.shawez2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 316px;
+    font-size: 20px;
+    box-shadow: 30px;
+}
+.shawez3{
+    padding-left: 450px;
+}
+
+.shawez4{
+    padding-left: 20px;
+}
+.shawe5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #fff;
+    padding-left: 200px;
+}
+.shawez10{
+    font-size: 30px;
+    border: 0px;
+    box-sizing:initial;
+}
+#salam12{
+    text-align: center;
+    width: 30%;
+    height: 50px;
+    background-color:#2d8e84;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    box-shadow: 10px 10px 10px 10px; 
+  
+}
+.salam7{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 450px;
+    font-size: 20px;
+}
+.salam10-submit:hover {
+    background-color:#fff;
+}
+.shawez18{
+    box-sizing: content-box;
+    background-color:#000000;
+    height: 500px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.shazen{
+    width: 160px;
+    height: 103px;
+    margin-top: 50px;
+    padding-left: 100px;
+    background-color: #000000;
+    vertical-align: middle;
+}
+.shazen1{
+    color: #fff;
+    padding-left: 100px;
+    vertical-align: middle;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.shazen{
+    width: 160px;
+    height: 103px;
+    margin-top: 50px;
+    padding-left: 100px;
+    background-color: #000000;
+    vertical-align: middle;
+}
+.shazen1{
+    color: #fff;
+    padding-left: 100px;
+    vertical-align: middle;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.rehan{
+    display: flex;
+}
+.rehan13{
+    display: flex;
+    flex-direction: column;
+}
+.alif{
+    padding-left: 50px;
+    text-decoration: underline #2d8e84;
+    vertical-align: 100px;
+    padding-top: 50px;
+    font-size: 22px;
+    color: #fff;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.hello{
+    padding-left: 50px;
+    height: 295.98px;
+    width: 123.23%;
+}
+.sam{
+    padding-left: 90px;
+    color: #fff;
+}
+#sam2{
+    display: flex;
+    flex-direction: column;
+
+}
+.rehan3{
+    color: #fff;
+    padding-left: 5px;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
